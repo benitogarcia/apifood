@@ -1,4 +1,18 @@
 {
+    "promociones": [
+    {
+        "id": 1,
+        "producto": "Tacos Asada Padres",
+        "cantidad": 2,
+        "imagen": "public/img/default/tacos.png",
+        "precio": 60.5,
+        "descripcion": "Descripcion de mi primer producto 1",
+        "idcategoria": 1,
+        "idsucursal": 1,
+        "compobl": false,
+        "compopc": false
+    }
+    ],
     "sucursales": [
         {"id": 1, "sucursal": "Comitan, Centro", "imagen": "public/img/default/sucursal1.jpg", "direccion": "", "telefono": "", "status":true},
         {"id": 2, "sucursal": "Comitan, Boulevar", "imagen": "public/img/default/sucursal2.jpg", "direccion": "", "telefono": "", "status":true}
