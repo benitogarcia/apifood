@@ -1,7 +1,7 @@
 {
     "sucursales": [
-        {"id": 1, "sucursal": "Comitan, Centro", "direccion": "", "telefono": "", "status":true},
-        {"id": 2, "sucursal": "Comitan, Boulevar", "direccion": "", "telefono": "", "status":true}
+        {"id": 1, "sucursal": "Comitan, Centro", "imagen": "public/img/default/sucursal1.jpg", "direccion": "", "telefono": "", "status":true},
+        {"id": 2, "sucursal": "Comitan, Boulevar", "imagen": "public/img/default/sucursal2.jpg", "direccion": "", "telefono": "", "status":true}
     ],
     "categorias": [{
         "id": 1,
