@@ -1,5 +1,5 @@
 {
-    "sucrsales": [
+    "sucursales": [
         {"id": 1, "sucursal": "Comitan, Centro", "direccion": "", "telefono": "", "status":true},
         {"id": 2, "sucursal": "Comitan, Boulevar", "direccion": "", "telefono": "", "status":true}
     ],
