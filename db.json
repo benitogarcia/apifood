@@ -20,22 +20,22 @@
     "categorias": [{
         "id": 1,
         "categoria": "Tacos",
-        "imagen": "public/img/default/sucrusal1.jpg",
+        "imagen": "public/img/default/sucursal1.jpg",
         "status": true
     }, {
         "id": 2,
         "categoria": "Hamburguesas",
-        "imagen": "public/img/default/sucrusal2.jpg",
+        "imagen": "public/img/default/sucursal2.jpg",
         "status": false
     }, {
         "id": 3,
         "categoria": "Hot Dog",
-        "imagen": "public/img/default/sucrusal1.jpg",
+        "imagen": "public/img/default/sucursal1.jpg",
         "status": true
     }, {
         "id": 4,
         "categoria": "Bebidas",
-        "imagen": "public/img/default/sucrusal2.jpg",
+        "imagen": "public/img/default/sucursal2.jpg",
         "status": true
     }],
     "productos": [{
